@@ -1,6 +1,7 @@
 <template>
   <div :class="appClass">
     <header :class="headerClass">
+    <link href="font.css" rel="stylesheet">
       <div class="container">
         <div class="header__all">
           <a href="#" class="logo">
@@ -43,7 +44,6 @@
     </footer>
   </div>
 </template>
-
 <style scoped>
 /* body {
   min-height: 100vh;

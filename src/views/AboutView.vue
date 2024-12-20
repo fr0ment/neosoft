@@ -1,5 +1,6 @@
 <template>
   <main class="background-container4 ">
+    <link href="font.css" rel="stylesheet">
     <div class="container">
     <div class="rectangle">
     

@@ -1,5 +1,6 @@
 <template>
   <div class="background-container ">
+    <link href="font.css" rel="stylesheet">
     <div class="container">
       <div class="rectangle">
       <div class="desktop">

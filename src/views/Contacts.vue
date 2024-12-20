@@ -1,5 +1,6 @@
 <template>
   <div class="background-container3 " >
+    <link href="font.css" rel="stylesheet">
     <div class="container">
       <div class="contacts">
         <div class="text__contacts1">О нас</div>
