@@ -45,7 +45,7 @@
 
 .text__contacts1 {
   color: rgb(30, 168, 22);
-font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
 font-size: 48px;
 font-weight: 400;
 line-height: 58px;
@@ -55,7 +55,7 @@ text-align: center;
 
 .text__contacts2 {
   color: rgb(255, 255, 255);
-font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
 font-size: 32px;
 font-weight: 400;
 line-height: 39px;
@@ -65,7 +65,7 @@ text-align: left;
 
 .text__contacts3 {
   color: rgb(255, 255, 255);
-font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
 font-size: 24px;
 font-weight: 400;
 line-height: 29px;
@@ -76,7 +76,7 @@ margin-left: 50px;
 
 .text__contacts4 {
   color: rgb(255, 255, 255);
-font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
 font-size: 24px;
 font-weight: 400;
 line-height: 29px;
@@ -87,7 +87,7 @@ text-align: left;
 .text__contacts5 {
   text-align: left;
   color: rgb(255, 255, 255);
-font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
 font-size: 40px;
 font-weight: 400;
 line-height: 48px;
@@ -99,7 +99,7 @@ margin-left: 6px;
 .text__contacts6 {
   text-align: left;
   color: rgb(30, 168, 22);
-font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
 font-size: 32px;
 font-weight: 400;
 line-height: 39px;

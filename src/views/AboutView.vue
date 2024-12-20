@@ -123,7 +123,7 @@ div{
 }
 .text__news{
   color: rgb(30, 168, 22);
-  font-family: Inter;
+  font-family: 'InterBold', sans-serif;
   font-size: 40px;
   font-weight: 400;
   line-height: 48px;
@@ -132,8 +132,7 @@ div{
 
 }
 .news__about{
-  margin-top: 7px;
-  margin-left: 23px;
+  font-family: 'InterRegular', sans-serif;
 }
 .news1{
   display: flex;
@@ -190,7 +189,7 @@ div{
   margin-right: 10%;
   /* margin-right: 85px; */
   /* width: 1012.87px; */
-  font-family: Inter;
+  font-family: 'InterBold', sans-serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 29px;
@@ -203,7 +202,7 @@ div{
   margin-top: 32px;
   margin-right: 45px;
   /* width: 980.45px; */
-  font-family: Inter;
+  font-family: 'InterBold', sans-serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 29px;
@@ -216,7 +215,7 @@ div{
   margin-left: 51px;
   margin-right: 54px;
   /* width: 980.18px; */
-  font-family: Inter;
+  font-family: 'InterBold', sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 19px;
@@ -229,7 +228,7 @@ div{
   margin-left: 39px;
   margin-right: 37px;
   /* width: 980.44px; */
-  font-family: Inter;
+  font-family: 'InterBold', sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 19px;
@@ -242,7 +241,7 @@ div{
   margin-left: 48px;
   margin-right: 53px;
   /* width: 980.2px; */
-  font-family: Inter;
+  font-family: 'InterBold', sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 19px;
@@ -253,7 +252,7 @@ div{
   margin-right: 53px;
   height: 38.51px;
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 32px;
   font-weight: 400;
   line-height: 39px;
@@ -264,7 +263,7 @@ div{
   margin-right: 54px;
   height: 38.51px;
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 32px;
   font-weight: 400;
   line-height: 39px;
@@ -275,7 +274,7 @@ div{
   margin-right: 54px;
   height: 28.63px;
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 29px;
@@ -286,7 +285,7 @@ div{
   margin-right: 53px;
   height: 28.63px;
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 29px;
@@ -297,7 +296,7 @@ div{
   margin-right: 58px;
   height: 28.63px;
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 29px;
@@ -317,7 +316,7 @@ div{
   margin-right: 10px;
   text-decoration: none;
   color: rgb(34, 133, 49);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 32px;
   font-weight: 400;
   line-height: 39px;

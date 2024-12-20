@@ -45,9 +45,9 @@
   </div>
 </template>
 <style scoped>
-/* body {
-  min-height: 100vh;
-} */
+body {
+    font-family: 'InterRegular', sans-serif;
+}
 div{
   /* border: 1px solid rgb(255, 0, 0); */
 }
