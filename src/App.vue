@@ -45,9 +45,9 @@
   </div>
 </template>
 <style scoped>
-body {
+/* body {
     font-family: 'InterRegular', sans-serif;
-}
+} */
 div{
   /* border: 1px solid rgb(255, 0, 0); */
 }
@@ -65,7 +65,7 @@ div{
 nav a { 
   color: rgb(30, 168, 22);
   text-decoration: none;
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;
@@ -175,7 +175,7 @@ nav a {
 }
 .footer__text{
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
@@ -185,7 +185,7 @@ nav a {
 }
 .footer__text_only{
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
@@ -198,7 +198,7 @@ nav a {
   text-align: center;
   margin-top: 24px;
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
@@ -207,7 +207,7 @@ nav a {
 .footer__text2{
   text-align: center;
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
@@ -218,7 +218,7 @@ nav a {
 .footer__text3{
   text-align: center;
   color: rgb(255, 255, 255);
-  font-family: Inter;
+  font-family: 'InterRegular', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
