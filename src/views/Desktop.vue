@@ -90,10 +90,11 @@ div{
   width: auto;
 }
 .image__desktop2 {
-  left: 0; /* Уперто влево */
+  right: 0; /* Уперто вправо */
 }
 .image__desktop3 {
-  right: 0; /* Уперто вправо */
+  left: 0; /* Уперто влево */
+  
 }
 .btn{
   color: white;
