@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'InterBold';
+    src: url('src/assets/fonts/InterBold.eot');
+    src: url('src/assets/fonts/InterBold.eot') format('embedded-opentype'),
+         url('src/assets/fonts/InterBold.woff2') format('woff2'),
+         url('src/assets/fonts/InterBold.woff') format('woff'),
+         url('src/assets/fonts/InterBold.ttf') format('truetype'),
+         url('src/assets/fonts/InterBold.svg#InterBold') format('svg');
+    font-family: 'InterRegular';
+    src: url('src/assets/fonts/InterRegular.eot');
+    src: url('src/assets/fonts/InterRegular.eot') format('embedded-opentype'),
+         url('src/assets/fonts/InterRegular.woff2') format('woff2'),
+         url('src/assets/fonts/InterRegular.woff') format('woff'),
+         url('src/assets/fonts/InterRegular.ttf') format('truetype'),
+         url('src/assets/fonts/InterRegular.svg#InterRegular') format('svg');
+}
